@@ -31,7 +31,7 @@ body {
 }
 
 a {
-  color: #38d39f;
+  color: #660066;
   transition: 0.5s;
 }
 
@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #38d39f;
+  background: #91599D;
   color: #fff;
   padding: 6px 12px 9px 12px;
   font-size: 16px;
@@ -91,12 +91,12 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 0;
   border-bottom: 1px solid #eee;
   font-size: 14px;
-  background: #0a3455;
+  background: #660066;
 }
 
 #topbar .contact-info a {
   line-height: 1;
-  color: #acacac;
+  color: white;
 }
 
 #topbar .contact-info a:hover {
@@ -104,11 +104,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .contact-info i {
-  color: #38d39f;
+  color: white;
   padding: 4px 4px 0 0;
 }
 .contact-info.float-left {
-    color: #acacac;
+    color: white;
 }
 #topbar .contact-info .fa-phone {
   padding-left: 20px;
@@ -117,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .social-links a {
-  color: #38d39f;
+  color: white;
   padding: 4px 12px;
   display: inline-block;
   line-height: 1px;
@@ -217,17 +217,17 @@ h1, h2, h3, h4, h5, h6 {
   /* font-weight: bold; */
 } 
 #hero .hero-content h2 span {
-  color: #0a3455;
+  color: #660066;
   text-align: right;
   font-size: 60px;
   text-transform: uppercase;
   font-weight: 700;
 }
 #hero .hero-content .btn-banner {
-  background: #38d39f;
-  border: 2px solid #38d39f;
+  background: #91599D;
+  border: 2px solid #91599D;
   border-radius: 30px;
-  color: #0a3455;
+  color: white;
   padding: 10px 25px;
   font-weight: bold;
 }
@@ -428,8 +428,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu li:hover > a, .nav-menu > .menu-active > a {
-  color: #0a3455;
-  background: #38d39f;
+  color: white;
+  background: #91599D;
 }
 
 .nav-menu > li {
@@ -501,7 +501,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 260px;
   overflow-y: auto;
   transition: 0.4s;
-  background: #06c082;
+  background: #91599D;
 }
 
 #mobile-nav ul {
@@ -581,7 +581,7 @@ Inner Banner
 	background: linear-gradient(45deg, #00b1e4 -132%, #0c2e8a 100%);
 	padding: 40px 0;
 	text-align:center;
-	background: #0a3455;
+	background: #660066;
 }
 #innerBanner h2{
 	color:#fff;
@@ -630,7 +630,7 @@ Inner Banner
   height: 3px;
   bottom: 0;
   left: 0;
-  border-top: #38d39f solid 2px;
+  border-top: #d95ce0 solid 2px;
   right: 0;
   text-align: center;
   margin: 0 auto;
@@ -694,7 +694,7 @@ Inner Banner
 #about .content i {
   font-size: 20px;
   padding-right: 4px;
-  color: #38d39f;
+  color: #d95ce0;
 }
 
 #about .content ul {
@@ -744,7 +744,7 @@ Inner Banner
 }
 
 #services .box .icon i:before {
-  background: #38d39f;
+  background: #d95ce0;
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -860,7 +860,7 @@ Inner Banner
   margin: 0;
   text-transform: capitalize;
   font-weight: 700;
-  background: #38d39f75;
+  background: #d95ce033;
   border: 1px solid #fff;
   padding: 25px;
   /* background: linear-gradient(45deg, #00b1e457 0%, #405ece91 100%); */
@@ -954,9 +954,9 @@ opacity:1;
 #testimonials .testimonial-item p {
   font-style: italic;
   margin: 0 auto 15px auto;
-  background: #e8fff7;
+  background: #d95ce033;
   width: 100%;
-  border: 1px solid #38d39f;
+  border: 1px solid #d95ce0;
   border-radius: 15px 15px 0 15px;
   padding: 22px 15px;
   font-size: 15px;
@@ -978,7 +978,7 @@ opacity:1;
 }
 
 #testimonials .owl-dot.active {
-  background-color: #38d39f;
+  background-color: #d95ce0;
 }
 .map{
 	
@@ -1000,7 +1000,7 @@ p.help-block li {
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {
-  background: #e8fff7;
+  background: #d95ce033;
   background-size: cover;
   padding: 40px 0;
 }
@@ -1033,8 +1033,8 @@ p.help-block li {
   border-radius: 3px;
   transition: 0.5s;
   margin: 10px;
-  border: 3px solid #38d39f;
-  color: #38d39f;
+  border: 3px solid #660066;
+  color: #660066;
 }
 
 #call-to-action .cta-btn:hover {
@@ -1091,7 +1091,7 @@ p.help-block li {
 }
 
 #team .member .social a {
-  color: #38d39f;
+  color: #660066;
   margin: 2px 6px;
   /* border: 1px solid #00b1e4; */
   width: 42px;
@@ -1126,7 +1126,7 @@ p.help-block li {
   font-size: 24px;
   display: inline-block;
   margin-bottom: 0;
-  color: #38d39f;
+  color: #91599D;
   float: left;
 }
 
@@ -1228,11 +1228,11 @@ p.help-block li {
 }
 
 #contact .form button[type="submit"] {
-  background: #38d39f;
+  background:#91599D;
   border: 0;
   border-radius: 25px;
   padding: 10px 30px;
-  color: #0a3455;
+  color: white;
   transition: 0.4s;
   cursor: pointer;
 }
